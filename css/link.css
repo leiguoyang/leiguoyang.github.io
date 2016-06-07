@@ -7,12 +7,11 @@ nav ul {
 
 nav li {
   list-style-type: none;
-  width: 30%;
-  float: left;
+  display: inline;
 }
 
 nav a {
-  display: block;
+  padding: 0px 20px;
 }
 
 nav a:link {
@@ -24,7 +23,7 @@ nav a:visited {
 }
 
 nav a:hover {
-  color: yellowgreen;
+  color: red;
 }
 
 nav a:active {
