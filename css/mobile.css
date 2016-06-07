@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  padding: 3%;
+  padding: 0 3%;
 }
 
 #main {
@@ -20,7 +20,7 @@ header {
 }
 
 footer {
-  padding: 3%;
+  padding: 20px 3%;
   background-color: #ccc;
 }
 
