@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my-first-post
+title: my first post
 date: 2016-06-05
 location: Taishan
 ---
