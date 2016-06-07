@@ -1,2 +1,47 @@
+/*for the navigation bar*/
 nav ul {
   padding: 0px;
+}
+
+nav li {
+  list-style-type: none;
+  width: 30%;
+  float: left;
+}
+
+nav a {
+  display: block;
+}
+
+nav a:link {
+  color: black;
+}
+
+nav a:visited {
+  color: black;
+}
+
+nav a:hover {
+  color: yellowgreen;
+}
+
+nav a:active {
+  color: ligtgreen;
+}
+
+/*for the links in the main section element*/
+#main a:link {
+  color: #abc;
+}
+
+#main a:visited {
+  color: gray;
+}
+
+#main a:hover {
+  color: bcd;
+}
+
+#main a:active {
+  color: cde;
+}
