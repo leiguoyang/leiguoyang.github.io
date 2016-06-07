@@ -1,6 +1,6 @@
 /*for mobile phone*/
 body {
-	font: xx-large Verdana, sans-serif;
+	font: large Verdana, sans-serif;
 	color: black;
 	background-color: #fcfcfc;
 	margin: 0px;
@@ -20,7 +20,7 @@ header {
 }
 
 footer {
-  padding: 3px;
-  color: #ccc;
+  padding: 3%;
+  background-color: #ccc;
 }
 
