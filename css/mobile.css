@@ -1,0 +1,16 @@
+/*for mobile phone*/
+body {
+	font: large Verdana, sans-serif;
+	color: black;
+	background-color: #fafafa;
+	margin: 0px;
+}
+
+#main {
+  margin: 0px 5%;
+}
+
+#main h1 {
+  font-size: 2em;
+}
+
