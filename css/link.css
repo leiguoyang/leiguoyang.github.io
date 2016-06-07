@@ -2,13 +2,13 @@
 nav ul {
   padding: 0px;
   text-align: center;
+  overflow: hidden;
 }
 
 nav li {
   list-style-type: none;
   width: 30%;
   float: left;
-  clear: right;
 }
 
 nav a {
@@ -33,7 +33,7 @@ nav a:active {
 
 /*for the links in the main section element*/
 #main a:link {
-  color: #abc;
+  color: #456;
 }
 
 #main a:visited {
@@ -41,9 +41,9 @@ nav a:active {
 }
 
 #main a:hover {
-  color: #bcd;
+  color: #567;
 }
 
 #main a:active {
-  color: #cde;
+  color: #789;
 }
