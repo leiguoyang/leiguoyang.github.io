@@ -1,12 +1,14 @@
 /*for the navigation bar*/
 nav ul {
   padding: 0px;
+  text-decoration: center;
 }
 
 nav li {
   list-style-type: none;
   width: 30%;
   float: left;
+  clear: right;
 }
 
 nav a {
