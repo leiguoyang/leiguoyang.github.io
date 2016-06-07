@@ -6,11 +6,21 @@ body {
 	margin: 0px;
 }
 
+header {
+  padding: 3%;
+}
+
 #main {
-  margin: 0px 5%;
+  padding: 0px 3%;
 }
 
 #main h1 {
   font-size: 2em;
+  text-transform: capitalize;
+}
+
+footer {
+  padding: 3px;
+  color: #ccc;
 }
 
