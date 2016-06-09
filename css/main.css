@@ -1,5 +1,5 @@
 body {
-	font-family: "微软雅黑", sans-serif;
+  font-family: "微软雅黑", sans-serif;
 	color: black;
 	background-color: #fcfcfc;
 	margin: 0px;
@@ -21,6 +21,9 @@ header {
   font-style: italic;
 }
 
+#main article {
+  margin: 70px 0px;
+}
 footer {
   padding: 20px 3%;
   background-color: #eef;
