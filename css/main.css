@@ -1,6 +1,5 @@
-/*for mobile phone*/
 body {
-	font: large "微软雅黑", sans-serif;
+	font-family: "微软雅黑", sans-serif;
 	color: black;
 	background-color: #fcfcfc;
 	margin: 0px;
@@ -8,10 +7,6 @@ body {
 
 header {
   padding: 0 3%;
-}
-
-#main {
-  padding: 0px 3%;
 }
 
 #main h1 {
