@@ -1,6 +1,6 @@
 /*for mobile phone*/
 body {
-	font: large "宋体", sans-serif;
+	font: large "微软雅黑", sans-serif;
 	color: black;
 	background-color: #fcfcfc;
 	margin: 0px;
@@ -18,12 +18,14 @@ header {
   font-size: 2em;
   text-transform: capitalize;
   font-weight: normal;
+  color: chocolate;
 }
 
 #main time {
   color: gray;
   font-style: italic;
 }
+
 footer {
   padding: 20px 3%;
   background-color: #eef;
@@ -31,5 +33,5 @@ footer {
 }
 
 p {
-	line-height: 1.5em;
+	line-height: 1.7em;
 }
