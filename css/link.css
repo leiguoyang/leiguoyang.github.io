@@ -29,3 +29,14 @@ nav a:hover {
 nav a:active {
   color: orange;
 }
+
+/*for the links in the main section*/
+#main a:link {
+  color: chocolate;
+}
+#main a:visited {
+  color: #aaa;
+}
+#main a:hover {
+  color: orange;
+}
