@@ -1,6 +1,11 @@
 ---
 layout: default
-title: leiguoyang
+title: leiguoyang | homepage
 ---
-<h1>Hello, this is my personal blog.</h1>
-<p>Hello, i am guoyang from Taishan. Now I am working in Guangzhou.</p>
+
+{% for post in site.posts %}
+  <article>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
