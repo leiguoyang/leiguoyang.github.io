@@ -22,16 +22,16 @@ nav a:visited {
 }
 
 nav a:hover {
-  color: red;
+  color: chocolate;
 }
 
 nav a:active {
-  color: ligtgreen;
+  color: orange;
 }
 
 /*for the links in the main section element*/
 #main a:link {
-  color: #456;
+  color: chocolate;
 }
 
 #main a:visited {
@@ -39,9 +39,9 @@ nav a:active {
 }
 
 #main a:hover {
-  color: #567;
+  color: orange;
 }
 
 #main a:active {
-  color: #789;
+  color: orange;
 }
