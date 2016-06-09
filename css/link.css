@@ -26,10 +26,6 @@ nav a:hover {
   text-decoration: none;
 }
 
-nav a:active {
-  color: orange;
-}
-
 /*for the links in the main section*/
 #main a:link {
   color: chocolate;
