@@ -10,7 +10,7 @@ nav li {
 }
 
 nav a {
-  padding: 3px 20px;
+  padding: 5px 20px;
 }
 
 nav a:link {
@@ -38,5 +38,5 @@ nav a:active {
   color: #aaa;
 }
 #main a:hover {
-  color: orange;
+  color: goldenrod;
 }
