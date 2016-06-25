@@ -15,6 +15,7 @@ nav a {
 
 nav a:hover {
   color: goldenrod;
+  border-color: goldenrod;
 }
 
 /*for the links in the main section*/
