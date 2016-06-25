@@ -1,29 +1,19 @@
 /*for the navigation bar*/
-nav ul {
-  padding: 0px;
+nav {
   text-align: center;
 }
 
-nav li {
-  list-style-type: none;
-  display: inline;
-}
-
 nav a {
-  padding: 5px 20px;
-}
-
-nav a:link {
-  color: black;
-}
-
-nav a:visited {
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid #bbb;
+  border-radius: 3px;
+  padding: 3px 15px;
   color: black;
 }
 
 nav a:hover {
   color: goldenrod;
-  text-decoration: none;
 }
 
 /*for the links in the main section*/
