@@ -6,8 +6,10 @@ body {
 }
 
 header {
-  padding: 50px 5% 0;
+  padding: 40px 5%;
   text-align: left;
+  background-color: chocolate;
+  color: white;
 }
 
 header h1 {
@@ -17,7 +19,7 @@ header h1 {
 header h2 {
   font-weight: normal;
   font-size: 1em;
-  color: gray;
+  color: #ccc;
 }
 
 nav {
