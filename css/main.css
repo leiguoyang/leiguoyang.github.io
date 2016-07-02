@@ -14,7 +14,7 @@ header {
 
 header h1 {
   font-size: 1.2em;
-  font-family: Corbel, sans-serif;
+  font-family: Corbel, Verdana, sans-serif;
   font-weight: normal;
 }
 
@@ -47,7 +47,7 @@ nav {
 }
 
 #main article {
-  margin: 0px 0px 150px 0px;
+  margin: 0px 0px 200px 0px;
 }
 footer {
   padding: 20px 5%;
