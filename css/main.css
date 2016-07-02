@@ -19,7 +19,8 @@ header h1 {
 header h2 {
   font-weight: normal;
   font-size: 1em;
-  color: #ccc;
+  color: #eec;
+  font-style: italic;
 }
 
 nav {
