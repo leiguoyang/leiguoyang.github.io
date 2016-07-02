@@ -1,5 +1,5 @@
 body {
-  font: xx-large Corbel, sans-serif;
+  font: xx-large Verdana, sans-serif;
   color: black;
   background-color: #fcfcfc;
   margin: 0px;
@@ -20,6 +20,8 @@ header h1 {
   color: gray;
 }
 
+nav {
+  padding: 0 5%;
 #main {
   padding: 0px 5%;
 }
