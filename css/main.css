@@ -6,13 +6,13 @@ body {
 }
 
 header {
-  padding: 0 3%;
-  text-align: center;
+  padding: 0 5%;
+  text-align: left;
 }
 
 header h1 {
   font-weight: normal;
-  font-size: 2.5em;
+  font-size: 2em;
 }
 
 #quote {
@@ -21,7 +21,7 @@ header h1 {
 }
 
 #main {
-  padding: 0px 3%;
+  padding: 0px 5%;
 }
 
 #main h1 {
@@ -38,14 +38,14 @@ header h1 {
 }
 
 #main article {
-  margin: 0px 0px 70px 0px;
+  margin: 0px 0px 90px 0px;
 }
 footer {
-  padding: 20px 3%;
+  padding: 20px 5%;
   background-color: #eef;
   border-top: 1px solid #ccd;
 }
 
 p {
-	line-height: 2em;
+  line-height: 2em;
 }
