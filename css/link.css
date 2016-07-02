@@ -12,17 +12,17 @@ nav a {
 }
 
 nav a:hover {
-  color: goldenrod;
-  border-color: goldenrod;
+  color: chocolate;
+  border-color: chocolate;
 }
 
 /*for the links in the main section*/
 #main a:link {
-  color: chocolate;
+  color: goldenrod;
 }
 #main a:visited {
   color: #aaa;
 }
 #main a:hover {
-  color: goldenrod;
+  color: chocolate;
 }
