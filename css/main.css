@@ -1,5 +1,5 @@
 body {
-  font: 48px Verdana, sans-serif;
+  font: 40px Verdana, sans-serif;
   color: black;
   background-color: #fcfcfc;
   margin: 0px;
@@ -61,5 +61,5 @@ footer {
 }
 
 p {
-  line-height: 1.7em;
+  line-height: 1.5em;
 }
