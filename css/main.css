@@ -49,6 +49,11 @@ nav {
 #main article {
   margin: 0px 0px 200px 0px;
 }
+
+#main img {
+  width: 100%;
+}
+
 footer {
   padding: 20px 5%;
   background-color: #eef;
