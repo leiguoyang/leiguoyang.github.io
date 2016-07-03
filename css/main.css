@@ -36,7 +36,6 @@ nav {
 #main h1 {
   font-size: 2em;
   text-transform: capitalize;
-  font-weight: normal;
   color: darkgoldenrod;
   margin-bottom: .5em;
 }
