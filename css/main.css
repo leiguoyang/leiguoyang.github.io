@@ -8,8 +8,7 @@ body {
 header {
   padding: 30px 5%;
   text-align: left;
-  background-color: goldenrod;
-  color: white;
+  border-bottom: 5px solid black;
 }
 
 header h1 {
@@ -21,7 +20,7 @@ header h1 {
 header h2 {
   font-weight: normal;
   font-size: 1em;
-  color: #eec;
+  color: #777;
   font-style: italic;
 }
 
@@ -37,7 +36,7 @@ nav {
   font-size: 2em;
   text-transform: capitalize;
   font-weight: normal;
-  color: goldenrod;
+  color: chocolate;
   margin-bottom: .5em;
 }
 
