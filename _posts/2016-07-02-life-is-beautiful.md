@@ -1,6 +1,6 @@
 ---
 layout: post
-title: life-is-beautiful
+title: life is beautiful
 date: 2016-07-02
 ---
 
