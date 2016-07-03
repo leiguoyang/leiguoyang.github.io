@@ -6,9 +6,9 @@ body {
 }
 
 header {
-  padding: 30px 5%;
+  padding: 0 5%;
   text-align: left;
-  border-bottom: 5px solid black;
+  border-bottom: 15px solid black;
 }
 
 header h1 {
