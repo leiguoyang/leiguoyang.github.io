@@ -18,7 +18,7 @@ nav a:hover {
 
 /*for the links in the main section*/
 #main a:link {
-  color: chocolate;
+  color: darkgoldenrod;
 }
 #main a:visited {
   color: #aaa;
