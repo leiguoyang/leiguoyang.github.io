@@ -1,13 +1,13 @@
 /*for the navigation bar*/
 nav {
-  text-align: left;
+  text-align: center;
 }
 
 nav a {
-  display: block;
+  display: inline-block;
   text-decoration: none;
-  border-bottom: 3px dotted #bbb;
-  padding: 20px 0;
+  border-bottom: 3px solid #cde;
+  padding: 1em 1em;
   color: black;
 }
 
