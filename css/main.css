@@ -8,7 +8,7 @@ body {
 header {
   padding: 1em 5%;
   text-align: left;
-  border-bottom: 1px solid #cdf;
+  border-bottom: 1px solid #bce;
   background-color: #eef7f7;
 }
 
@@ -23,7 +23,7 @@ nav {
 }
 
 #main {
-  padding: 3em 5% 7em;
+  padding: 1em 5% 7em;
 }
 
 #main h1 {
@@ -54,7 +54,7 @@ footer {
 
 p {
   line-height: 1.7em;
-  margin: 2em 0;
+  margin: 1.5em 0;
 }
 
 #main h1, #main h2, #main h3 {
