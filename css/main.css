@@ -29,7 +29,6 @@ nav {
 #main h1 {
   font-size: 2em;
   text-transform: capitalize;
-  color: darkgoldenrod;
   margin-bottom: .5em;
 }
 
@@ -44,6 +43,10 @@ nav {
 
 #main img {
   max-width: 100%;
+}
+
+#main article h1 {
+  font-weight: normal;
 }
 
 footer {
