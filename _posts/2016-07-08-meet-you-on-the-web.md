@@ -1,5 +1,5 @@
 ---
-layout：post
+layout: post
 title: meet you on the web
 date: 2016-07-08
 ---
