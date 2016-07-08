@@ -8,8 +8,8 @@ body {
 header {
   padding: 1em 5%;
   text-align: left;
-  border-bottom: 1px solid #bce;
-  background-color: #eef7f7;
+  border-bottom: 1px solid #abc;
+  background-color: #e9f0f0;
 }
 
 header h1 {
@@ -49,16 +49,13 @@ nav {
 footer {
   padding: 3em 5%;
   background-color: #e9f0f0;
-  border-top: 1px solid #ccf;
+  color: #567;
+  border-top: 1px solid #abc;
 }
 
-p {
+p, li {
   line-height: 1.7em;
   margin: 1.5em 0;
-}
-
-#main h1, #main h2, #main h3 {
-  color: darkgoldenrod;
 }
 
 #main h2 {
@@ -67,4 +64,4 @@ p {
 
 #main h3 {
   font-size: 1.2em;
-} 
+}
