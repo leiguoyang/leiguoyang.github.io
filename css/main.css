@@ -56,9 +56,13 @@ footer {
   border-top: 1px solid #abc;
 }
 
-p, li {
+p {
   line-height: 1.7em;
   margin: 1.5em 0;
+}
+
+#main li {
+  line-height: 1.7em;
 }
 
 #main h2 {
