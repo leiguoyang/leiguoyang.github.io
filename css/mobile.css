@@ -1,0 +1,13 @@
+body {
+	font-size: 48px;
+}
+
+#main {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+nav a {
+	border-bottom: 3px solid #cde;
+  padding: 1em 1em;
+}
