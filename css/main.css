@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  padding: 1em 5%;
+  padding: .9em 5%;
   text-align: left;
   border-top: 1px solid #cde;
   border-bottom: 1px solid #cde;
@@ -84,6 +84,7 @@ nav a {
   display: inline-block;
   text-decoration: none;
   color: black;
+  padding: 1em 1em;
 }
 
 nav a:hover {
