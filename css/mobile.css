@@ -8,6 +8,9 @@ body {
 }
 
 nav a {
-	border-bottom: 3px solid #cde;
   padding: 1em 1em;
+}
+
+nav {
+	border-bottom: 1px solid #cde;
 }
