@@ -83,10 +83,15 @@ nav {
 nav a {
   display: inline-block;
   text-decoration: none;
-  color: black;
   padding: 1em 1em;
 }
 
+nav a:link {
+  color: black;
+}
+nav a: visited {
+  color: black;
+}
 nav a:hover {
   color: blue;
 }
