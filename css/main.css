@@ -1,5 +1,5 @@
 body {
-  font: medium Verdana, sans-serif;
+  font: medium Arial, sans-serif;
   color: black;
   background-color: #fcfcfc;
   margin: 0px;
@@ -25,7 +25,7 @@ nav {
 
 #main {
   padding-top: 1em;
-  padding-bottom: 5em;
+  padding-bottom: 3em;
 }
 
 #main h1 {
@@ -34,12 +34,11 @@ nav {
 }
 
 #main time {
-  color: gray;
   font-style: italic;
 }
 
 #main article {
-  margin: 0 0 5em;
+  margin: 0 0 3em;
 }
 
 #main img {
@@ -48,6 +47,7 @@ nav {
 
 #main article h1 {
   font-weight: normal;
+  font-size: 1em;
 }
 
 footer {
@@ -55,6 +55,7 @@ footer {
   background-color: #e9f0f0;
   color: #567;
   border-top: 1px solid #cde;
+  line-height: 1.7em;
 }
 
 p {
@@ -87,17 +88,16 @@ nav a {
 }
 
 nav a:hover {
-  color: goldenrod;
-  border-color: goldenrod;
+  color: blue;
 }
 
 /*for the links in the main section*/
-#main a:link {
-  color: darkgoldenrod;
+a:link {
+  color: blue;
 }
-#main a:visited {
-  color: #aaa;
+a:visited {
+  color: gray;
 }
-#main a:hover {
-  color: goldenrod;
+a:hover {
+  color: orange;
 }
