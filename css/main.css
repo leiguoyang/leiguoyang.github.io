@@ -15,9 +15,8 @@ body {
 }
 
 #nav {
-  padding-top: 2em;
+  padding-top: 1.5em;
   padding-bottom: 1em;
-  color: goldenrod;
   border-bottom: 3px solid #eee;
 }
 
@@ -30,14 +29,39 @@ body {
   padding-left: 0;
 }
 
-#nav a:hover {
-  color: gold;
-  text-decoration:blueviolet;
-}
 p {
-  line-height: 1.5em;
+  line-height: 1.7em;
 }
 
 a:hover {
   color: goldenrod;
+}
+
+img {
+  max-width: 100%;
+}
+
+#main {
+  padding: 2em 0;
+}
+
+#main h1 {
+  margin-top: 0;
+}
+
+#post-meta {
+  color: #555;
+}
+#post-meta svg g {
+  color: #555;
+}
+
+#post-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+#post-list li {
+  margin-bottom: 1em;
 }
