@@ -1,5 +1,7 @@
 body {
   font: medium Calibri, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 #footer {
@@ -51,9 +53,10 @@ img {
 
 #post-meta {
   color: #555;
+  margin-bottom: 1em;
 }
 #post-meta svg g {
-  color: #555;
+  fill: #555;
 }
 
 #post-list {
@@ -63,5 +66,9 @@ img {
 }
 
 #post-list li {
-  margin-bottom: 1em;
+  margin: 1em 0;
+}
+
+#post-list a {
+  font-size: 1.5em;
 }
