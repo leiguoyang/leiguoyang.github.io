@@ -68,3 +68,7 @@ img {
 #post-list li {
   margin: 1em 0;
 }
+
+#post-list a {
+  font-size: 1.5em;
+}
