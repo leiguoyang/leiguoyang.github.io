@@ -12,25 +12,19 @@
 		<link rel="stylesheet" href="/css/mobile.css" media="screen and (max-width: 700px)">
 	</head>
 	<body>
-		<header>
-			<h1>Lei Guoyang</h1>
-		</header>
-		
-		<nav>
-			<a href="/">Home</a>
-			<a href="/blog.html">Blog</a>
+		<div id="nav">
+			<a href="/">Lei Guoyang</a>
 			<a href="/about.html">About</a>
-		</nav>
+		</div>
 		
-		<section id="main">
+		<div id="main">
+			{{ content }}
+		</div>
 		
-		{{ content }}
-		
-		</section>
-		
-		<footer>
-			&copy; 2017 Lei Guoyang<br>
-			E-mail: <a href="mailto:guoyangl@126.com">guoyangl@126.com</a>
-		</footer>
+		<div id="footer">
+			<a href="https://github.com/leiguoyang">github.com/leiguoyang</a><br>
+			e-mail: <a href="mailto:guoyangl@126.com">guoyangl@126.com</a>
+			Always get inspired!
+		</div>
 	</body>
 </html>

@@ -1,17 +1,4 @@
-/*for personal computer*/
 body {
-  font-size: medium;
-  position: relative;
-	color: black;
-}
-
-#main {
-  padding-left: 20%;
-  padding-right: 20%;
-}
-
-nav {
-	position: absolute;
-	top: 0;
-	right: 0;
+  margin-left: 20%;
+  margin-right: 20%;
 }
