@@ -1,13 +1,4 @@
 body {
-	font-size: medium;
-	color: #333;
-}
-
-#main {
-  padding-left: 5%;
-  padding-right: 5%;
-}
-
-nav {
-	border-bottom: 1px solid #cde;
+	margin-left: 5%;
+	margin-right: 5%;
 }
