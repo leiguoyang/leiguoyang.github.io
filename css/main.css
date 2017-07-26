@@ -79,6 +79,8 @@ li {
 
 blockquote {
   color: gray;
+  margin-left: 20px;
+  margin-right: 0;
 }
 
 blockquote p:before, blockquote p:after {
