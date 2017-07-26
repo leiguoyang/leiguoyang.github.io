@@ -72,3 +72,15 @@ img {
 #post-list a {
   font-size: 1.5em;
 }
+
+li {
+  line-height: 1.7em;
+}
+
+blockquote {
+  color: gray;
+}
+
+blockquote p:before, blockquote p:after {
+  content: '"';
+}
