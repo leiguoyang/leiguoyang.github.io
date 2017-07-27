@@ -86,3 +86,19 @@ blockquote {
 blockquote p:before, blockquote p:after {
   content: '"';
 }
+
+table, th, td {
+  border: 1px solid gray;
+}
+
+th, td {
+  padding: 3px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  background-color: skyblue;
+}
