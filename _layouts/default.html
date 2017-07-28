@@ -1,29 +1,11 @@
 <!doctype html>
 <html>
-	<head>
-		<title>{{ page.title }}</title>
-		<meta charset="utf-8">
-		<link rel="Shortcut Icon" href="/images/favicon.ico" type="image/x-icon">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" href="/css/main.css">
-		<!--link to personal computer-->
-		<link rel="stylesheet" href="/css/pc.css" media="screen and (min-width: 701px)">
-		<!--link to mobile device-->
-		<link rel="stylesheet" href="/css/mobile.css" media="screen and (max-width: 700px)">
-	</head>
+	{% include head.html %}
 	<body>
-		<div id="nav">
-			<a href="/">部落格</a>
-			<a href="/about.html">关于我</a>
-		</div>
-		
+		{% include nav.html %}
 		<div id="main">
 			{{ content }}
 		</div>
-		
-		<div id="footer">
-			e-mail: <a href="mailto:guoyangl@126.com">guoyangl@126.com</a><br>
-生活驿站
-		</div>
+		{% include footer.html %}
 	</body>
 </html>
