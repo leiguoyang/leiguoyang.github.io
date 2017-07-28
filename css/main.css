@@ -36,8 +36,12 @@ p {
   line-height: 1.7em;
 }
 
+a:link {
+  color: skyblue;
+}
+
 a:hover {
-  color: goldenrod;
+  color: #30b6ed;
 }
 
 img {
