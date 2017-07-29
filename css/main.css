@@ -5,9 +5,9 @@ body {
 }
 
 #footer {
-  padding: 3em 0;
+  padding: 2em 0;
   text-align: center;
-  border-top: 3px solid #eee;
+  border-top: 1px solid skyblue;
   color: gray;
   line-height: 1.5em;
 }
@@ -19,16 +19,14 @@ body {
 #nav {
   padding-top: 1.5em;
   padding-bottom: 1em;
-  border-bottom: 3px solid #eee;
+  border-bottom: 1px solid skyblue;
 }
 
 #nav a {
   padding: 5px 10px;
   text-decoration: none;
-  border: 1px solid #dde;
-  background-color: skyblue;
+  border: 1px solid #30b6ed;
   border-radius: 5px;
-  color: white;
   margin-right: 10px;
 }
 
@@ -41,7 +39,7 @@ a:link, a:visited {
 }
 
 a:hover {
-  color: #13adec;
+  color: #0b9edb;
 }
 
 img {
@@ -58,13 +56,12 @@ img {
 
 #post-meta {
   color: #555;
-  margin-bottom: 0.5em;
 }
 
 #post-meta img {
   border-radius: 5px;
   vertical-align: middle;
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 #post-list {
@@ -74,11 +71,12 @@ img {
 }
 
 #post-list li {
-  margin: 1.5em 0;
+  border-bottom: 1px solid #eee;
+  padding: .5em 0;
 }
 
 #post-list a {
-  font-size: 1.5em;
+  text-decoration: none;
 }
 
 li {
