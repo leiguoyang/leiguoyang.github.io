@@ -26,8 +26,12 @@ body {
   padding: 5px 10px;
   text-decoration: none;
   border: 1px solid #30b6ed;
-  border-radius: 5px;
   margin-right: 10px;
+}
+
+#nav a:hover {
+  color: white;
+  background: #30b6ed;
 }
 
 p {
@@ -69,6 +73,11 @@ img {
 
 #post-list a {
   text-decoration: none;
+}
+
+#post-list a:hover {
+  background: yellow;
+  color: #30b6ed;
 }
 
 li {
