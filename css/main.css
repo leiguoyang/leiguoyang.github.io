@@ -110,3 +110,11 @@ table {
 th {
   background-color: #eef;
 }
+
+pre {
+  border-left: 3px solid skyblue;
+  border-radius: 3px;
+  padding: 10px;
+  overflow: auto;
+  background: #f7f7ff;
+}
