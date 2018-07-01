@@ -118,3 +118,22 @@ pre {
   overflow: auto;
   background: #f7f7ff;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+}
+
+h1 {
+  font-size: 2.5em;
+  border-bottom-width: 0;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
