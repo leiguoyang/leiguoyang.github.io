@@ -7,7 +7,7 @@ body {
 #footer {
   padding: 2em 0;
   text-align: center;
-  border-top: 1px solid skyblue;
+  border-top: 1px solid #eee;
   color: gray;
   line-height: 1.5em;
 }
@@ -19,19 +19,21 @@ body {
 #nav {
   padding-top: 1.5em;
   padding-bottom: 1em;
-  border-bottom: 1px solid skyblue;
+  border-bottom: 1px solid #eee;
 }
 
 #nav a {
   padding: 5px 10px;
   text-decoration: none;
-  border: 1px solid #30b6ed;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  color: black;
   margin-right: 10px;
 }
 
 #nav a:hover {
-  color: white;
-  background: #30b6ed;
+  color: black;
+  background: #eee;
 }
 
 p {
