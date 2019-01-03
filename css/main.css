@@ -7,7 +7,7 @@ body {
 #footer {
   padding: 2em 0;
   text-align: center;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #aaa;
   color: gray;
   line-height: 1.5em;
 }
@@ -19,7 +19,7 @@ body {
 #nav {
   padding-top: 1.5em;
   padding-bottom: 1em;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #aaa;
 }
 
 #nav a {
