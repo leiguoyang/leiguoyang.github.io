@@ -1,6 +1,6 @@
 ---
 title: 防疫之怪状
-date: 2022-11-05
+date: 2022-11-04
 layout: post
 ---
 
